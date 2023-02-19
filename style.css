@@ -136,10 +136,10 @@ body{
     padding-top: 20px;
   }
   footer{
-    padding-top: none;
+    padding-top: 0px;
   }
   .icons{
-    padding-top: none;
+    padding-top: 0px;
   }
   button{
     width: 350px; 
