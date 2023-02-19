@@ -129,11 +129,7 @@ body{
     margin: 5px;
   }
   input{
-    width: 150px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0 auto; 
+    width: 120px;
   }
   .logo{
     padding-top: 40px;
@@ -145,6 +141,6 @@ body{
     padding-top: none;
   }
   button{
-    width: 120px; 
+    width: 100px; 
   }
 }
