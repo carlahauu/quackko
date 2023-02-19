@@ -139,6 +139,9 @@ body{
   .icons{
     padding-top: none;
   }
+  .button{
+    width: 130px; 
+  }
 }
 
 
