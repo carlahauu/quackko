@@ -130,7 +130,7 @@ body{
     margin: 5px;
   }
   input{
-    width: 180px;
+    width: 150px;
   }
   .logo{
     padding-top: 40px;
@@ -143,6 +143,6 @@ body{
   }
   button{
     margin: 25px;
-    width: 100%; 
+    width: 500px; 
   }
 }
