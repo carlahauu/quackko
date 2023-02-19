@@ -130,6 +130,10 @@ body{
   }
   input{
     width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto; 
   }
   .logo{
     padding-top: 40px;
