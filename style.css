@@ -1,0 +1,135 @@
+.logo{
+  padding-top: 70px;
+  width: 221px;
+  height: 221px;
+  left: 525px;
+  top: 136px;
+  padding-bottom: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto; 
+}
+
+.nav{
+  width: 200px;
+}
+
+.soon{
+  text-align: center;
+  padding-top: none;
+  font-family: 'Montserrat Alternates';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 44px;
+  letter-spacing: 0.085em;
+
+  color: #000000;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto; 
+
+  text-align: center;
+  width: 700px;
+  height: 70px;
+  left: 291px;
+  top: 449px;
+
+  background: rgba(255, 173, 0, 0.21);
+  border-radius: 30px;
+}
+
+input{
+  border-style: none;
+  width: 245px;
+  height: 40px;
+  background: rgba(255, 173, 0,0);
+  font-family: 'League Spartan';
+  font-size: 20px;
+}
+
+input:focus{
+  outline: none;
+}
+
+button{
+  width: 145px;
+  height: 40px;
+  left: 835px;
+  top: 460px;
+
+  font-family: 'League Spartan';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 22px;
+  text-align: center;
+
+  color: #000000;
+
+  background: rgba(255, 173, 0, 0.59);
+  border-radius: 30px;
+  border-style: none;
+}
+
+button:hover{
+  background: rgba(255, 174, 0, 0.432);
+  border-radius: 30px;
+  border-style: none;
+  cursor: pointer;
+  transition-duration: 0.5s;
+}
+
+.linkedin{
+  width: 45px;
+  height: 45px;
+  left: 574px;
+  top: 699px;
+  padding-right: 20px;
+}
+
+.instagram{
+  width: 49px;
+  height: 49px;
+  left: 657px;
+  top: 700px;
+  padding-top: 6px;
+}
+
+footer{
+  padding-top: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto; 
+}
+
+.icons{
+  padding-top: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto; 
+}
+
+body{
+  background: linear-gradient(rgb(255, 255, 255), rgba(255, 173, 0, 0.21));
+}
+
+@media only screen and (max-width:700px){
+  .container{
+    text-align: center;
+    width: 100%;
+    margin: 5px;
+  }
+  input{
+    width: 145px;
+}
+}
+
+
