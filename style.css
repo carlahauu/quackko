@@ -126,7 +126,7 @@ body{
   .container{
     text-align: center;
     width: 100%;
-    height: 100px;
+    height: 110px;
     margin: 5px;
   }
   input{
@@ -142,6 +142,7 @@ body{
     padding-top: none;
   }
   button{
-    width: 400px; 
+    margin: 5px;
+    width: 100%; 
   }
 }
